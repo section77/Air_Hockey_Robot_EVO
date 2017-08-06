@@ -35,7 +35,7 @@
 #define ROBOT_MAX_Y ROBOT_CENTER_Y-80
 
 // PuckSize (puck radio in mm)
-#define PUCK_SIZE 22
+#define PUCK_SIZE 25
 
 // Initial robot position in mm
 // The robot must be at this position at start time
