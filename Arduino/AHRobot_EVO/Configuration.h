@@ -32,7 +32,7 @@
 #define ROBOT_MIN_X 60
 #define ROBOT_MIN_Y 58
 #define ROBOT_MAX_X TABLE_WIDTH-ROBOT_MIN_X
-#define ROBOT_MAX_Y ROBOT_CENTER_Y-80
+#define ROBOT_MAX_Y ROBOT_CENTER_Y
 
 // PuckSize (puck radio in mm)
 #define PUCK_SIZE 25
