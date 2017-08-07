@@ -40,8 +40,8 @@
 // Initial robot position in mm
 // The robot must be at this position at start time
 // Default: Centered in X and minimun position in Y
-#define ROBOT_INITIAL_POSITION_X TABLE_WIDTH/2
-#define ROBOT_INITIAL_POSITION_Y 40   // Measured from center of the robot pusher to the table border
+#define ROBOT_INITIAL_POSITION_X TABLE_WIDTH/2-(PUCK_SIZE / 2)
+#define ROBOT_INITIAL_POSITION_Y 50   // Measured from center of the robot pusher to the table border
 
 // Robot defense and attack lines
 #define ROBOT_DEFENSE_POSITION_DEFAULT 72
