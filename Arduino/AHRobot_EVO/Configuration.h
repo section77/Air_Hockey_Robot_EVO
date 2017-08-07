@@ -18,8 +18,8 @@
 
 // Geometric calibration.
 // This depends on the pulley teeth. DEFAULT: 200(steps/rev)*8(microstepping) = 1600 steps/rev. 1600/32teeth*2mm(GT2) = 25 steps/mm
-#define X_AXIS_STEPS_PER_UNIT 25    
-#define Y_AXIS_STEPS_PER_UNIT 25
+#define X_AXIS_STEPS_PER_UNIT 28
+#define Y_AXIS_STEPS_PER_UNIT 28
 
 // This is the center of the table. All units in milimeters
 // This are the dimensions of the official air hockey table Exploter from Buffalo
